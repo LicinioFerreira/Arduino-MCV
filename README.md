@@ -1,5 +1,5 @@
 
-<h5>Model-View-Controller Pattern in C++ (in Arduino)</h5>
+<h5>Model-View-Controller Pattern in C++ (for Arduino)</h5>
 
 test1
 
