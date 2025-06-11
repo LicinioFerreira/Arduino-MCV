@@ -1,7 +1,13 @@
 
 <h4>Model-View-Controller Pattern in C++ (for Arduino)</h4>
 
+
 The **Model–View–Controller** (MVC) pattern is a way of organizing code into **three** distinct components, each with a single responsibility:
+
+![test](https://github.com/user-attachments/assets/6e0a82ce-acb0-4629-9991-11e7d71bef05)
+
+**Figure 1.** MVC design. 
+
 
 **Model**
 
@@ -38,11 +44,6 @@ What it is: The “**_glue_**” between Model and View. It interprets user acti
   - Update the model.
 
   - Trigger view updates.
-
-
-![test](https://github.com/user-attachments/assets/6e0a82ce-acb0-4629-9991-11e7d71bef05)
-
-**Figure 1.** MVC design. 
 
 
 <h5>Add the classes for the project</h5>
