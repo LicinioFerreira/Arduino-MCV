@@ -4,9 +4,12 @@
 
 The **Model–View–Controller** (MVC) pattern is a way of organizing code into **three** distinct components, each with a single responsibility:
 
-![test](https://github.com/user-attachments/assets/6e0a82ce-acb0-4629-9991-11e7d71bef05)
 
-**Figure 1.** MVC design. 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e0a82ce-acb0-4629-9991-11e7d71bef05" alt="test" width="500"/>
+</p>
+
+<p align="center"><b>Figure 1.</b> MVC design.</p>
 
 
 **Model**
@@ -50,18 +53,26 @@ What it is: The “**_glue_**” between Model and View. It interprets user acti
 
 The following images show how to add the implementatation and header files in the Arduino's IDE:
 
-![0](https://github.com/user-attachments/assets/bcc182fb-a867-4777-b9a9-285ccc5c6e0a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bcc182fb-a867-4777-b9a9-285ccc5c6e0a" alt="0" />
+</p>
 
-**Figure 2.** Add the implementatation and header files. 
+
+<p align="center"><strong>Figure 2.</strong> Add the implementation and header files.</p> 
 
 
-![1](https://github.com/user-attachments/assets/49008c6f-c550-469b-86d1-683cf4c42fe4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49008c6f-c550-469b-86d1-683cf4c42fe4" alt="1" width="600" />
+</p>
 
-**Figure 3.** Add the implementatation and header files. 
 
-![2](https://github.com/user-attachments/assets/7fd9ef6c-33bb-4dfb-aa6f-a29b133ed1ad)
+<p align="center"><strong>Figure 3.</strong> Add the implementatation and header files.</p> 
 
-**Figure 4.** Verbose mode.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7fd9ef6c-33bb-4dfb-aa6f-a29b133ed1ad" alt="1" width="500" />
+</p>
+
+<p align="center"><strong>Figure 4.</strong> Verbose mode.</p> 
 
 
 After compiling, the output is: 
